@@ -14,7 +14,7 @@ Module Module1
 
         Rectangle.breadth = 7.0
         area = Rectangle.length * Rectangle.breadth
-        Console.WriteLine("Area of Rectangle is : {0}", area)
+        Console.WriteLine("Rectangle area: {0}", area)
 
         Console.ReadKey()
     End Sub
